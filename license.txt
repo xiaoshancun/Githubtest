@@ -4,3 +4,5 @@
 <bootstrappers>
 <antbootstrapper anthome="apache-ant-1.7.0" buildfile="projects/${project.name}/build.xml" target="clean" />
 </bootstrappers
+
+this is test
